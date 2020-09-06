@@ -21,8 +21,8 @@
 ----
 **Database**
 
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/mysql.svg"></code>
-
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/mysql.svg" alt="mysql"></code>
+<code><img height="30" src="https://github.com/hunterdr/hunterdr/blob/master/mongodb.png"></code>
 
 
 ⭐️ [@hunterdr](https://github.com/hunterdr)
