@@ -1,8 +1,7 @@
 ### Hi there 👋
-
-<h2> I'm Marlon vasquez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>I'm Marlon vasquez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/hunterdr/hunterdr/blob/master/code.gif" width="230">
-<p><em>I'm currently studying at <a href="https://platzi.com/clases/learning-path/web/">Plazit</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
+<p><em>Frontend developer <a href="https://platzi.com/clases/learning-path/web/">Plazit</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
 ### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> A little more about me...  
 
@@ -16,13 +15,9 @@
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ [@hunterdr](https://github.com/hunterdr)
 
 
 
