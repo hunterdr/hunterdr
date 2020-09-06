@@ -11,13 +11,15 @@
 
 ### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> A little more about me...  
 
-###  🌱 I’m currently learning Backend and database 🤦‍♂.</br>
+###  🌱 I’m currently learning 🤦‍♂.</br>
+
+**Backend**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
 
 ----
-**Databases**
+**Database**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/mysql.svg"></code>
 
