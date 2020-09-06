@@ -3,19 +3,21 @@
 <img align='right' src="https://github.com/hunterdr/hunterdr/blob/master/code.gif" width="230">
 <p><em>I'm currently studying at <a href="https://platzi.com/clases/learning-path/web/">Plazit</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
-### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> A little more about me...  
-
 **Front-end**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
 
-###  🌱 I’m currently learning Backend 🤦‍♂.</br>
+### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> A little more about me...  
+
+###  🌱 I’m currently learning Backend and database 🤦‍♂.</br>
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
----
+
+
+
 
 ⭐️ [@hunterdr](https://github.com/hunterdr)
 
