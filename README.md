@@ -21,7 +21,7 @@
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ [@hunterdr](https://github.com/hunterdr)
 
 
 
